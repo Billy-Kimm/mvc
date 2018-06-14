@@ -1,7 +1,10 @@
 package test;
 
 public class test2 {
+
 	public static void main(String[] args) {
-		// test 2 
+		// TODO Auto-generated method stub
+
 	}
+
 }
